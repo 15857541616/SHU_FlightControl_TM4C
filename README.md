@@ -10,5 +10,3 @@ preliminary improvement on code structure
 1. Add comment template to IAR8
 2. Optimize the Main entrance init code style
 
-test
-
